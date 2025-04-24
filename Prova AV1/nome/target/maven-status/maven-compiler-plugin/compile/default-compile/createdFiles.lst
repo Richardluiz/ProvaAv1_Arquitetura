@@ -1,0 +1,6 @@
+com\nome\nome\model\Curso.class
+com\nome\nome\service\AlunoService.class
+com\nome\nome\model\Aluno.class
+com\nome\nome\NomeApplication.class
+com\nome\nome\repository\AlunoRepository.class
+com\nome\nome\controller\AlunoController.class
