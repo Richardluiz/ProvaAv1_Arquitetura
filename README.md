@@ -148,7 +148,7 @@ spring.jpa.show-sql=true
 ---
 
 ## 🤖 Autor
-Desenvolvido por **[Seu Nome Aqui]**
+Desenvolvido por **Richard Luiz**
 
 Projeto realizado para fins educacionais e prática de desenvolvimento backend com Java e Spring Boot.
 
